@@ -1,10 +1,10 @@
 // 1 to 10
 
-/* let i = 1;
+let i = 1;
 while (i < 10) {
   console.log(i)
   i++;
-} */
+}
 
 
 
@@ -40,40 +40,5 @@ while(f<=100){
 } */
 
 
-// multiples of table 14
 
 
-/* let a = 14;
-
-let b = 1;
-
-while(b<=10){
-  console.log(a +"*"+b +"=" + a*b)
-   b++;
-}
- */
-
-
-// multiples of table 14
-
-/* let i = 4;
-let k = 11;
-
-while(k<=20){
-  console.log(4+"*"+k+"="+i*k)
-  k++
-} */
-
-
-// factors of 4
-
-var a = 24;
-var b = [];
-
-for(i=0;i<=a;i++){
-  if(a%i==0){
-    b.push(i)
-  }
-  
-}
-console.log(b)
