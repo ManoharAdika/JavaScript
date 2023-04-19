@@ -1,0 +1,2 @@
+data =9894;
+(data<=999 && data>99)?console.log("It is a three digit number"+data): console.log("It is not three digit number"+data)
